@@ -1,0 +1,18 @@
+# Ignore Eclipse workspace metadata
+.metadata/
+
+# Ignore Java build output folders
+bin/
+target/
+
+# Ignore Java compiler outputs
+*.class
+*.log
+
+# Ignore Gradle build system folders
+.gradle/
+build/
+
+# Ignore IntelliJ IDEA settings
+*.iml
+.idea/
